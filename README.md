@@ -17,6 +17,15 @@ A simple application that converts PLN to EUR, USD, GBP and CHF.
 ## Simple instruction
 
 1. Enter the amount in the "Kwota w PLN" field
+
+![currency converter](gif/enter_amount.gif)
+
 2. Select one of the available currencies in the "Przelicz na" field
+
+![currency converter](gif/select_currency.gif)
+
 3. Click on the "Przelicz" button
+
+![currency converter](gif/click_button.gif)
+
 4. Now you can see the result in the field "Wynik"
